@@ -24,3 +24,4 @@ impl Display for Solution {
         }
     }
 }
+
